@@ -38,3 +38,9 @@ LOG_LEVEL=DEBUG python3 main.py
 
 I usually prefer Go and hate Python with a passion. But, I needed something quick, and the libraries for interfacing with my smart bulbs and streaming the live timing data are readily available.
 
+## Thanks
+
+Thanks to the following folks, I learnt a few neat things from their implementation:
+
+- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1)
+- [f1stuff/f1-live-data](https://github.com/f1stuff/f1-live-data)
