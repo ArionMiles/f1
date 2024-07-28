@@ -1,0 +1,102 @@
+{
+    "44": {
+        "Name":"Lewis Hamilton",
+        "Constructor": "Mercedes",
+        "RGB": [108, 211, 191]
+    },
+    "63": {
+        "Name":"George Russel",
+        "Constructor": "Mercedes",
+        "RGB": [108, 211, 191]
+    },
+    "55": {
+        "Name":"Carlos Sainz",
+        "Constructor": "Ferrari",
+        "RGB": [249, 21, 54]
+    },
+    "16": {
+        "Name":"Charles Leclerc",
+        "Constructor": "Ferrari",
+        "RGB": [249, 21, 54]
+    },
+    "1": {
+        "Name":"Max Verstappen",
+        "Constructor": "Red Bull",
+        "RGB": [54, 113, 198]
+    },
+    "11": {
+        "Name":"Sergio Pérez",
+        "Constructor": "Red Bull",
+        "RGB": [54, 113, 198]
+    },
+    "81": {
+        "Name":"Oscar Piastri",
+        "Constructor": "McLaren",
+        "RGB": [245, 128, 32]
+    },
+    "4": {
+        "Name":"Lando Norris",
+        "Constructor": "McLaren",
+        "RGB": [245, 128, 32]
+    },
+    "14": {
+        "Name":"Fernando Alonso",
+        "Constructor": "Aston Martin",
+        "RGB": [53, 140, 117]
+    },
+    "18": {
+        "Name":"Lance Stroll",
+        "Constructor": "Aston Martin",
+        "RGB": [53, 140, 117]
+    },
+    "10": {
+        "Name":"Pierre Gasly",
+        "Constructor": "Alpine",
+        "RGB": [34, 147, 209]
+    },
+    "31": {
+        "Name":"Esteban Ocon",
+        "Constructor": "Alpine",
+        "RGB": [34, 147, 209]
+    },
+    "22": {
+        "Name":"Yuki Tsunoda",
+        "Constructor": "VCARB",
+        "RGB": [94, 143, 170]
+    },
+    "3": {
+        "Name":"Daniel Ricciardo",
+        "Constructor": "VCARB",
+        "RGB": [94, 143, 170]
+    },
+    "27": {
+        "Name":"Nico Hulkenberg",
+        "Constructor": "Haas",
+        "RGB": [182, 186, 189]
+    },
+    "20": {
+        "Name":"Kevin Magnussen",
+        "Constructor": "Haas",
+        "RGB": [182, 186, 189]
+    },
+    "24": {
+        "Name":"Zhou Guanyu",
+        "Constructor": "Kick Sauber",
+        "RGB": [201, 45, 75]
+    },
+    "77": {
+        "Name":"Valterri Bottas",
+        "Constructor": "Kick Sauber",
+        "RGB": [201, 45, 75]
+    },
+    "2": {
+        "Name":"Logan Seargant",
+        "Constructor": "Williams",
+        "RGB": [55, 190, 221]
+    },
+    "23": {
+        "Name":"Alex Albon",
+        "Constructor": "Williams",
+        "RGB": [55, 190, 221]
+    }
+}
