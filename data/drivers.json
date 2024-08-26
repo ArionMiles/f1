@@ -2,22 +2,22 @@
     "44": {
         "Name":"Lewis Hamilton",
         "Constructor": "Mercedes",
-        "RGB": [108, 211, 191]
+        "RGB": [0, 255, 242]
     },
     "63": {
         "Name":"George Russel",
         "Constructor": "Mercedes",
-        "RGB": [108, 211, 191]
+        "RGB": [0, 255, 242]
     },
     "55": {
         "Name":"Carlos Sainz",
         "Constructor": "Ferrari",
-        "RGB": [249, 21, 54]
+        "RGB": [255, 8, 0]
     },
     "16": {
         "Name":"Charles Leclerc",
         "Constructor": "Ferrari",
-        "RGB": [249, 21, 54]
+        "RGB": [255, 8, 0]
     },
     "1": {
         "Name":"Max Verstappen",
@@ -32,12 +32,12 @@
     "81": {
         "Name":"Oscar Piastri",
         "Constructor": "McLaren",
-        "RGB": [245, 128, 32]
+        "RGB": [255, 140, 0]
     },
     "4": {
         "Name":"Lando Norris",
         "Constructor": "McLaren",
-        "RGB": [245, 128, 32]
+        "RGB": [255, 140, 0]
     },
     "14": {
         "Name":"Fernando Alonso",

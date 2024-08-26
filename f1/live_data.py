@@ -28,14 +28,14 @@ def filter_messages(msg: dict):
     # msg with _kf is heartbeat
     if "_kf" not in msg:
         return msg
-    logger.info("Received heartbeat:", msg)
+    logger.info("Received heartbeat: %s", msg)
 
 def get_pos_1_constructor_color(driver_list, drivers):
     for driver_no, position in driver_list.items():
         if not isinstance(position, dict):
             return
         if position["Line"] == 1:
-            logger.debug("p1 changed")
+            logger.debug("P1: %s [%s]", drivers[driver_no]["Constructor"], drivers[driver_no]["Name"])
             return drivers[driver_no]["RGB"]
 
 def _to_file_overwrite(devices, drivers, self, msg):
